@@ -42,11 +42,15 @@ usage: tap_game.py [-h] --participantID PARTICIPANTID
 
 
 --participantID : ID of participant used for logging. Participant ID is always needed.
---singleScreen : If there is a secon
-dary screen, the program expects it to be on the right where it will try to show the game score board. If you have one screen specify this argument
+
+--singleScreen : If there is a secondary screen, the program expects it to be on the right where it will try to show the game score board. If you have one screen specify this argument
+
 --log: To define the logPath somewhere other than the default location of ./logs
+
 --ignoreLog: If logging is not required.
+
 --scoreSet: Which set Cozmo will play
+
 --practice: Whether the current game is in practice mode
 
 ### example
