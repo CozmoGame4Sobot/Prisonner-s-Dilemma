@@ -24,7 +24,7 @@ To setup your device and computer to run custom python code, see instruction fro
 
 Note: To use later versions of the Cozmo app you might need to revisit the animations that have been updated. 
 
-##To run the game
+## To run the game from commandline
 
 usage: tap_game.py [-h] --participantID PARTICIPANTID
                    [--ignoreLog [IGNORELOG]] 
@@ -42,7 +42,7 @@ dary screen, the program expects it to be on the right where it will try to show
 --scoreSet: Which set Cozmo will play
 --practice: Whether the current game is in practice mode
 
-###example
+### example
 This is how the call looks from command line
 
 python tap_game.py --participantID=4  --scoreSet=1 --practice 
