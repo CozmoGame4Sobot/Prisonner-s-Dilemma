@@ -1,0 +1,113 @@
+2020-06-22 15:39:27,981 cozmo.general INFO     App connection established. sdk_version=0.14.0 cozmoclad_version=1.5.0 app_build_version=00001.00005.00000
+2020-06-22 15:39:28,035 cozmo.general INFO     Found robot id=1
+2020-06-22 15:39:28,049 cozmo.general INFO     Connected to Android device serial=CICQZHMRLVRCD6OZ
+2020-06-22 15:39:28,216 cozmo.general INFO     Robot id=1 serial=02e0d6f2 initialized OK
+2020-06-22 15:39:36,229 cozmo.general INFO     PD : Playing practice round
+2020-06-22 15:39:36,231 cozmo.general INFO     PD : Score set: [(4, 4), (10, 0), (0, 10), (6, 6)]
+2020-06-22 15:39:36,234 cozmo.general INFO     PD : Deal started
+2020-06-22 15:39:36,235 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 4 points in this game
+2020-06-22 15:39:40,067 cozmo.general INFO     PD : Hand delt : 1
+2020-06-22 15:39:41,772 cozmo.general INFO     PD : Cozmo tapped grab
+2020-06-22 15:39:41,773 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-06-22 15:39:41,924 cozmo.general INFO     PD : Player tapped to grab
+2020-06-22 15:39:41,926 cozmo.general INFO     PD : Player tap registered grab
+2020-06-22 15:39:44,298 cozmo.general INFO     PD : Hand deactivated : 1
+2020-06-22 15:39:44,298 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Grabbed
+2020-06-22 15:39:44,318 cozmo.general INFO     PD : After hand 1 player score : 4
+2020-06-22 15:39:44,319 cozmo.general INFO     PD : After hand 1 cozmo score  : 4
+2020-06-22 15:39:44,326 cozmo.general INFO     PD : CORRECT for 1 times
+2020-06-22 15:39:52,167 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:39:52,168 cozmo.general INFO     PD : Deal started
+2020-06-22 15:39:52,169 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 0 points in this game
+2020-06-22 15:39:56,801 cozmo.general INFO     PD : Hand delt : 2
+2020-06-22 15:39:57,631 cozmo.general INFO     PD : Player tapped to share
+2020-06-22 15:39:57,631 cozmo.general INFO     PD : Player tap registered share
+2020-06-22 15:39:58,508 cozmo.general INFO     PD : Cozmo tapped grab
+2020-06-22 15:39:58,509 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-06-22 15:40:01,035 cozmo.general INFO     PD : Hand deactivated : 2
+2020-06-22 15:40:01,036 cozmo.general INFO     PD : Result : Cozmo-Grabbed Player-Shared
+2020-06-22 15:40:01,056 cozmo.general INFO     PD : After hand 2 player score : 0
+2020-06-22 15:40:01,057 cozmo.general INFO     PD : After hand 2 cozmo score  : 10
+2020-06-22 15:40:01,062 cozmo.general INFO     PD : CORRECT for 2 times
+2020-06-22 15:40:08,844 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:40:08,844 cozmo.general INFO     PD : Deal started
+2020-06-22 15:40:08,847 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 10 points in this game
+2020-06-22 15:40:13,523 cozmo.general INFO     PD : Hand delt : 3
+2020-06-22 15:40:14,312 cozmo.general INFO     PD : Player tapped to grab
+2020-06-22 15:40:14,313 cozmo.general INFO     PD : Player tap registered grab
+2020-06-22 15:40:15,232 cozmo.general INFO     PD : Cozmo tapped share
+2020-06-22 15:40:15,233 cozmo.general INFO     PD : Cozmo tap registered share
+2020-06-22 15:40:17,751 cozmo.general INFO     PD : Hand deactivated : 3
+2020-06-22 15:40:17,752 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Shared
+2020-06-22 15:40:17,778 cozmo.general INFO     PD : After hand 3 player score : 10
+2020-06-22 15:40:17,779 cozmo.general INFO     PD : After hand 3 cozmo score  : 0
+2020-06-22 15:40:17,785 cozmo.general INFO     PD : CORRECT for 3 times
+2020-06-22 15:40:25,588 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:40:25,589 cozmo.general INFO     PD : Deal started
+2020-06-22 15:40:25,590 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 6 points in this game
+2020-06-22 15:40:31,054 cozmo.general INFO     PD : Hand delt : 4
+2020-06-22 15:40:31,948 cozmo.general INFO     PD : Player tapped to share
+2020-06-22 15:40:31,948 cozmo.general INFO     PD : Player tap registered share
+2020-06-22 15:40:32,761 cozmo.general INFO     PD : Cozmo tapped share
+2020-06-22 15:40:32,764 cozmo.general INFO     PD : Cozmo tap registered share
+2020-06-22 15:40:35,298 cozmo.general INFO     PD : Hand deactivated : 4
+2020-06-22 15:40:35,298 cozmo.general INFO     PD : Result : Player-Shared Cozmo-Shared
+2020-06-22 15:40:35,311 cozmo.general INFO     PD : After hand 4 player score : 6
+2020-06-22 15:40:35,311 cozmo.general INFO     PD : After hand 4 cozmo score  : 6
+2020-06-22 15:40:35,314 cozmo.general INFO     PD : CORRECT for 4 times
+2020-06-22 15:40:43,118 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:40:43,119 cozmo.general INFO     PD : Deal started
+2020-06-22 15:40:43,122 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 10 points in this game
+2020-06-22 15:40:47,608 cozmo.general INFO     PD : Hand delt : 5
+2020-06-22 15:40:49,318 cozmo.general INFO     PD : Cozmo tapped share
+2020-06-22 15:40:49,322 cozmo.general INFO     PD : Cozmo tap registered share
+2020-06-22 15:40:49,590 cozmo.general INFO     PD : Player tapped to grab
+2020-06-22 15:40:49,591 cozmo.general INFO     PD : Player tap registered grab
+2020-06-22 15:40:51,853 cozmo.general INFO     PD : Hand deactivated : 5
+2020-06-22 15:40:51,853 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Shared
+2020-06-22 15:40:51,874 cozmo.general INFO     PD : After hand 5 player score : 10
+2020-06-22 15:40:51,874 cozmo.general INFO     PD : After hand 5 cozmo score  : 0
+2020-06-22 15:40:51,879 cozmo.general INFO     PD : CORRECT for 5 times
+2020-06-22 15:40:59,710 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:40:59,712 cozmo.general INFO     PD : Deal started
+2020-06-22 15:40:59,713 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 6 points in this game
+2020-06-22 15:41:03,615 cozmo.general INFO     PD : Hand delt : 6
+2020-06-22 15:41:04,453 cozmo.general INFO     PD : Player tapped to share
+2020-06-22 15:41:04,454 cozmo.general INFO     PD : Player tap registered share
+2020-06-22 15:41:05,323 cozmo.general INFO     PD : Cozmo tapped share
+2020-06-22 15:41:05,325 cozmo.general INFO     PD : Cozmo tap registered share
+2020-06-22 15:41:07,849 cozmo.general INFO     PD : Hand deactivated : 6
+2020-06-22 15:41:07,850 cozmo.general INFO     PD : Result : Player-Shared Cozmo-Shared
+2020-06-22 15:41:07,870 cozmo.general INFO     PD : After hand 6 player score : 6
+2020-06-22 15:41:07,871 cozmo.general INFO     PD : After hand 6 cozmo score  : 6
+2020-06-22 15:41:07,876 cozmo.general INFO     PD : CORRECT for 6 times
+2020-06-22 15:41:15,720 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:41:15,721 cozmo.general INFO     PD : Deal started
+2020-06-22 15:41:15,726 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 4 points in this game
+2020-06-22 15:41:19,673 cozmo.general INFO     PD : Hand delt : 7
+2020-06-22 15:41:20,281 cozmo.general INFO     PD : Player tapped to grab
+2020-06-22 15:41:20,282 cozmo.general INFO     PD : Player tap registered grab
+2020-06-22 15:41:21,380 cozmo.general INFO     PD : Cozmo tapped grab
+2020-06-22 15:41:21,380 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-06-22 15:41:23,896 cozmo.general INFO     PD : Hand deactivated : 7
+2020-06-22 15:41:23,897 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Grabbed
+2020-06-22 15:41:23,921 cozmo.general INFO     PD : After hand 7 player score : 4
+2020-06-22 15:41:23,921 cozmo.general INFO     PD : After hand 7 cozmo score  : 4
+2020-06-22 15:41:23,926 cozmo.general INFO     PD : CORRECT for 7 times
+2020-06-22 15:41:31,735 cozmo.general INFO     PD : Ready for next deal
+2020-06-22 15:41:31,735 cozmo.general INFO     PD : Deal started
+2020-06-22 15:41:31,736 cozmo.general INFO     PD : Practice Goal : Goal : Try to get 0 points in this game
+2020-06-22 15:41:35,994 cozmo.general INFO     PD : Hand delt : 8
+2020-06-22 15:41:37,317 cozmo.general INFO     PD : Player tapped to share
+2020-06-22 15:41:37,318 cozmo.general INFO     PD : Player tap registered share
+2020-06-22 15:41:37,708 cozmo.general INFO     PD : Cozmo tapped grab
+2020-06-22 15:41:37,709 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-06-22 15:41:40,227 cozmo.general INFO     PD : Hand deactivated : 8
+2020-06-22 15:41:40,228 cozmo.general INFO     PD : Result : Cozmo-Grabbed Player-Shared
+2020-06-22 15:41:40,246 cozmo.general INFO     PD : After hand 8 player score : 0
+2020-06-22 15:41:40,247 cozmo.general INFO     PD : After hand 8 cozmo score  : 10
+2020-06-22 15:41:40,252 cozmo.general INFO     PD : CORRECT for 8 times
+2020-06-22 15:41:48,071 cozmo.general INFO     PD : Practice Passed
+2020-06-22 15:41:48,083 cozmo.general INFO     PD : Done playing
+2020-06-22 15:41:53,358 cozmo.general INFO     Shutting down connection
+2020-06-22 15:41:53,359 cozmo.general INFO     Android serial=CICQZHMRLVRCD6OZ disconnected.
