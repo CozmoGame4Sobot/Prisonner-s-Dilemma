@@ -5,6 +5,8 @@ Cozmo’s hands are played according to two preset sets, so that it plays an equ
 
 The robot selects one cube to display its decision on. Yellow light to share/cooperate and blue lights for competitive play or to grab/defect. The player has the other two cubes as the yellow light (share) cube and the blue light (grab) cube. The player has to tap the cube to convey their choice. 
 
+More information about the experimental setup and the study can be found on the OSF page: https://osf.io/res67/ 
+
 ### Known issues
 The Cozmo moves back and forth and turns after each round to give the impression of looking at the score screen. Whether it turn evenly back and forth and gets back to the cube depends on physics and friction. In practice round Cozmo realigns itself to the cube every time, but it makes the game slow. Which is fine for the practice. But in the actual experiment game rounds the cozmo aligns itself once every 5 times. 
 
